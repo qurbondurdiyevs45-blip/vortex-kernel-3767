@@ -1,0 +1,15 @@
+{
+  "name": "vortex-kernel-3767",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 2358,
+    "createdAt": "2026-07-11T17:35:50.817Z"
+  }
+}
